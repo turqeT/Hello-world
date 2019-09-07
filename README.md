@@ -1,6 +1,8 @@
 # prog-online-dz
 package com.gmail.turq;
+
 import java.util.Scanner;
+
 public class Zadacha2s {
 
 		
